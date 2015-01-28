@@ -11,6 +11,7 @@ TODO
  - Create a flowchart the scenarios of each algorithm
     - Consider failure cases.
     - Randomization of various cases should be added.
+ - More sources to check out: [here][1]
 
 ## Preliminary process
 
@@ -18,3 +19,5 @@ TODO
 2. Start with Totally Ordered Multicasting; this is easier to implement.
     - Use this implementation time to get a better understanding of what frameworks will help for the next (harder) visualization.
 3. Continue from there..
+
+[1]: https://github.com/josephmisiti/awesome-machine-learning#data-analysis--data-visualization-3
