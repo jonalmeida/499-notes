@@ -2,7 +2,9 @@ An Artifical World for Exploring Ecological Questions
 =====================================================
 
 > Presenter: Dr. Robin Gras
+>
 > Date: 27/02/2015
+>
 > Time: 10:00 am
 
 # Summary:

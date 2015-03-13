@@ -2,7 +2,9 @@ An autonomous frontier based multi-robot approach for dynamic environment covera
 ==================================================================================
 
 > Presenter: Raja Sankar Dileap Muddu
+>
 > Date: 29/01/2015
+>
 > Time: 03:00 pm
 
 # Summary:

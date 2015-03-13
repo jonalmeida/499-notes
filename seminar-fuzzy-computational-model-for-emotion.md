@@ -2,7 +2,9 @@ Fuzzy computational model for emotion regulation based on affect control theory
 ===============================================================================
 
 > Presenter: Ahmad Soleimani
+>
 > Date: 04/02/2015
+>
 > Time: 02:00 pm
 
 # Summary:

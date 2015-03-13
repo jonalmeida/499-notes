@@ -1,8 +1,10 @@
 Safety algorithms for vehicular networks
-=============================================
+========================================
 
 > Presenter: Gaurav Sood
+>
 > Date: 26/01/2015
+>
 > Time: 11:00 am
 
 # Summary:

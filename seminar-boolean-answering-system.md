@@ -1,8 +1,10 @@
 A boolean based question answering system
-=============================================
+=========================================
 
 > Presenter: Jiayi Wu
+>
 > Date: 23/01/2015
+>
 > Time: 12:00 pm
 
 # Summary:

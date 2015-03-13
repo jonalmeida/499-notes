@@ -2,7 +2,9 @@ Getting lost during navigation: The unconscious process
 =======================================================
 
 > Presenter: Dr. Frances Wang
+>
 > Date: 13/02/2015
+>
 > Time: 10:00 am
 
 # Summary:
